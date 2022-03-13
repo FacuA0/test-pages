@@ -1,5 +1,0 @@
-function Window() {
-	
-}
-
-setDrawablePrototype(Window);
