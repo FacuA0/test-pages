@@ -1,0 +1,69 @@
+{
+	"name": "Pastel",
+	"author": "FacuA0 (concept by Avdan)",
+	"description": "Pastel theme.",
+	"created": "2022-05-22",
+	"updated": "",
+	"version": "1.0",
+	"versionCode": 1,
+	
+	"appearances": [
+		{
+			"name": "Red",
+			"backgroundURL": "RedMountains.jpg",
+			"style": {
+				"windowColor": "#E1C9D1",
+				"windowTransparency": 0.78,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0001",
+				"textColor": "#7D667E",
+				"softTextColor": "#9F889F",
+				"accentColor": "#664C78",
+				"secondaryColor": "#664C78",
+				"secondaryFaintColor": "#664C784",
+				"iconColor": "#614A72",
+				"buttonColor": "#FAE7E8A4",
+				"buttonFaintColor": "#FAE7E866",
+				"buttonHoverColor": "#FAE7E8FF"
+			}
+		},
+		{
+			"name": "Blue",
+			"backgroundURL": "BlueMountains.jpg",
+			"style": {
+				"windowColor": "#036",
+				"windowTransparency": 0.78,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0004",
+				"textColor": "#EEE",
+				"softTextColor": "#CCC",
+				"accentColor": "#6CE",
+				"secondaryColor": "#6CE",
+				"secondaryFaintColor": "#6CE6",
+				"iconColor": "#FFF",
+				"buttonColor": "#FFF2",
+				"buttonFaintColor": "#FFF1",
+				"buttonHoverColor": "#FFF4"
+			}
+		},
+		{
+			"name": "Orange",
+			"backgroundURL": "OrangeMountains.jpg",
+			"style": {
+				"windowColor": "#630",
+				"windowTransparency": 0.78,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0004",
+				"textColor": "#EEE",
+				"softTextColor": "#CCC",
+				"accentColor": "#F82",
+				"secondaryColor": "#F82",
+				"secondaryFaintColor": "#F826",
+				"iconColor": "#FFF",
+				"buttonColor": "#FFF2",
+				"buttonFaintColor": "#FFF1",
+				"buttonHoverColor": "#FFF4"
+			}
+		}
+	]
+}

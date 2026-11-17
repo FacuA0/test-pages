@@ -1,0 +1,406 @@
+{
+	"root": {
+		"name": "/ (Root)",
+		"type": "Root",
+		"total": 2147483648,
+		"free": 2140483648,
+		"used": 7000000,
+		"contents": [
+			{
+				"name": "Apps",
+				"type": "Folder",
+				"contents":[
+					{
+						"name": "Files",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Files.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Color",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Color.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Photos",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Photos.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Settings",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Settings.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Lale",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Lale.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Messages",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Messages.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Notes",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Notes.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Text editor",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "TextEditor.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Terminal",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Terminal.js",
+								"type": "File"
+							}
+						]
+					},
+					{
+						"name": "Calculator",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "Icons",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Data",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Calculator.js",
+								"type": "File"
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "System",
+				"type": "Folder",
+				"contents": [
+					{
+						"name": "AvdanOS.html",
+						"type": "File"
+					},
+					{
+						"name": "AvdanOS.js",
+						"type": "File"
+					}
+				]
+			},
+			{
+				"name": "Users",
+				"type": "Folder",
+				"contents": [
+					{
+						"name": "User",
+						"type": "Folder",
+						"contents": [
+							{
+								"name": "AppData",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Desktop",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Documents",
+								"type": "Folder",
+								"contents": [
+									{
+										"name": "Wallpapers",
+										"type": "Folder",
+										"tag": "Design",
+										"contents": [
+											{
+												"name": "Wallpaper 1.png",
+												"type": "File",
+												"address": "images/backgrounds/AvdanOS.jpg"
+											},
+											{
+												"name": "Wallpaper 2.png",
+												"type": "File",
+												"address": "images/backgrounds/AvdanOSWallpaper.jpg"
+											},
+											{
+												"name": "Wallpaper 3.png",
+												"type": "File"
+											}
+										]
+									},
+									{
+										"name": "Brand Guidelines",
+										"type": "Folder",
+										"tag": "Work",
+										"contents": []
+									},
+									{
+										"name": "Voice Recordings",
+										"type": "Folder",
+										"tag": "Sound",
+										"contents": []
+									},
+									{
+										"name": "Next Concepts",
+										"type": "Folder",
+										"tag": "Important",
+										"contents": []
+									},
+									{
+										"name": "Project X",
+										"type": "Folder",
+										"tag": "Projects",
+										"contents": []
+									},
+									{
+										"name": "Eskişehir Trip",
+										"type": "Folder",
+										"tag": "Travel",
+										"contents": []
+									},
+									{
+										"name": "Patterns",
+										"type": "Folder",
+										"tag": "Design",
+										"contents": []
+									},
+									{
+										"name": "Capadoccia Trip",
+										"type": "Folder",
+										"tag": "Travel",
+										"contents": []
+									},
+									{
+										"name": "Project M",
+										"type": "Folder",
+										"tag": "Projects",
+										"contents": []
+									},
+									{
+										"name": "Sound Effects",
+										"type": "Folder",
+										"tag": "Sound",
+										"contents": []
+									},
+									{
+										"name": "Season 4",
+										"type": "Folder",
+										"tag": "Work",
+										"contents": []
+									},
+									{
+										"name": "Notes",
+										"type": "Folder",
+										"tag": "Important",
+										"contents": []
+									},
+									
+									{
+										"name": "The Wallpaper.psd",
+										"type": "File"
+									},
+									{
+										"name": "Animation.aep",
+										"type": "File"
+									},
+									{
+										"name": "Abstract.jpg",
+										"type": "File"
+									},
+									{
+										"name": "Invoice.pdf",
+										"type": "File"
+									},
+									{
+										"name": "New Avdan.mov",
+										"type": "File"
+									},
+									{
+										"name": "Instructions",
+										"type": "File"
+									},
+									{
+										"name": "Vendor Form",
+										"type": "File"
+									},
+									{
+										"name": "Next Videos.psd",
+										"type": "File"
+									},
+									{
+										"name": "Side Antik Kenti.png",
+										"type": "File"
+									},
+									{
+										"name": "Galata Tower.png",
+										"type": "File"
+									},
+									{
+										"name": "Capadoccia.png",
+										"type": "File"
+									},
+									{
+										"name": "Istambul.png",
+										"type": "File"
+									}
+								]
+							},
+							{
+								"name": "Downloads",
+								"type": "Folder",
+								"contents": []
+							},
+							{
+								"name": "Images",
+								"type": "Folder",
+								"contents": []
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	"drives": []
+}

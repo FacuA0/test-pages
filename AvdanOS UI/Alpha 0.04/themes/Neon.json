@@ -1,0 +1,32 @@
+{
+	"name": "Neon",
+	"author": "FacuA0 (concept by Avdan)",
+	"description": "Neon theme.",
+	"created": "2022-05-22",
+	"updated": "",
+	"version": "1.0",
+	"versionCode": 1,
+	
+	"appearances": [
+		{
+			"name": "Light",
+			"style": {
+				"windowColor": "#FFF",
+				"windowTransparency": 0.5,
+				"windowBlurAmount": 8,
+				"accentColor": "#0AF",
+				"buttonColor": "#0002"
+			}
+		},
+		{
+			"name": "Dark",
+			"style": {
+				"windowColor": "#000",
+				"windowTransparency": 0.35,
+				"windowBlurAmount": 8,
+				"accentColor": "#F0F",
+				"buttonColor": "#FFF2"
+			}
+		}
+	]
+}

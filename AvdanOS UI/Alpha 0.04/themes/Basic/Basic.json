@@ -1,0 +1,50 @@
+{
+	"name": "Basic",
+	"author": "FacuA0 (concept by Avdan)",
+	"description": "Basic theme.",
+	"created": "2022-05-22",
+	"updated": "",
+	"version": "1.0",
+	"versionCode": 1,
+	
+	"appearances": [
+		{
+			"name": "Light",
+			"backgroundURL": "Blue.jpg",
+			"style": {
+				"windowColor": "#FFF",
+				"windowTransparency": 0.65,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0004",
+				"textColor": "#111",
+				"softTextColor": "#333",
+				"accentColor": "#0AF",
+				"secondaryColor": "#48F",
+				"secondaryFaintColor": "#48F4",
+				"iconColor": "#000",
+				"buttonColor": "#00000016",
+				"buttonFaintColor": "#00000008",
+				"buttonHoverColor": "#0003"
+			}
+		},
+		{
+			"name": "Dark",
+			"backgroundURL": "Green.jpg",
+			"style": {
+				"windowColor": "#000",
+				"windowTransparency": 0.65,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0004",
+				"textColor": "#EEE",
+				"softTextColor": "#CCC",
+				"accentColor": "#E92B6A",
+				"secondaryColor": "#FFF",
+				"secondaryFaintColor": "#FFF4",
+				"iconColor": "#FFF",
+				"buttonColor": "#FFF2",
+				"buttonFaintColor": "#FFF1",
+				"buttonHoverColor": "#FFF4"
+			}
+		}
+	]
+}

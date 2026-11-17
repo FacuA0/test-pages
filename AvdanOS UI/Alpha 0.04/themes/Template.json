@@ -1,0 +1,50 @@
+{
+	"name": "Template Theme",
+	"author": "FacuA0 (concept by Avdan)",
+	"description": "Template file for AvdanOS UI themes.",
+	"created": "2022-05-22",
+	"updated": "",
+	"version": "1.0",
+	"versionCode": 1,
+	
+	"appearances": [
+		{
+			"name": "Light",
+			"backgroundURL": "",
+			"style": {
+				"windowColor": "#FFF",
+				"windowTransparency": 0.5,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#FFF4",
+				"textColor": "#111",
+				"softTextColor": "#444",
+				"accentColor": "#0AF",
+				"secondaryColor": "#000",
+				"secondaryFaintColor": "#0004",
+				"iconColor": "#000",
+				"buttonColor": "#0002",
+				"buttonFaintColor": "#0001",
+				"buttonHoverColor": "#0004"
+			}
+		},
+		{
+			"name": "Dark",
+			"backgroundURL": "",
+			"style": {
+				"windowColor": "#000",
+				"windowTransparency": 0.65,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0004",
+				"textColor": "#EEE",
+				"softTextColor": "#CCC",
+				"accentColor": "#F0F",
+				"secondaryColor": "#FFF",
+				"secondaryFaintColor": "#FFF4",
+				"iconColor": "#FFF",
+				"buttonColor": "#FFF2",
+				"buttonFaintColor": "#FFF1",
+				"buttonHoverColor": "#FFF4"
+			}
+		}
+	]
+}

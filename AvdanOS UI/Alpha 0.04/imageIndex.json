@@ -1,0 +1,176 @@
+{
+	"icons": {
+		"global": [
+			"Back",
+			"Forward",
+			"MoreOptions",
+			"Search",
+			"Share",
+			"Play",
+			"Star",
+			"Dropdown",
+			"Delete",
+			"Home",
+			"Lock",
+			"Default"
+		],
+		
+		"Login": [
+			"SeePassword",
+			"HidePassword"
+		],
+		
+		"Dock": [
+			"HideApps",
+			"AvdanMenu",
+			"RecentApps",
+			"Sun",
+			"WiFi",
+			"Bluetooth",
+			"Sound",
+			"Battery",
+			"QuickSettings"
+		],
+		"Start": [
+			"DevicePhone",
+			"DeviceWatch",
+			"DeviceCar",
+			"DefaultProfilePicture",
+			"DefaultProfilePicture2",
+			"Power",
+			"AllApps",
+			"Settings",
+			"Cloud"
+		],
+		"Frame": [
+			"Close",
+			"Minimize",
+			"Maximize",
+			"SplitLeft",
+			"Multitask",
+			"SplitRight",
+			"AddTab"
+		],
+		"Apps": [
+			"Files",
+			"Mail",
+			"Lale",
+			"Photos",
+			"Calendar",
+			"Notes",
+			"Settings",
+			"Music",
+			"Messages",
+			"Movies",
+			"Calculator",
+			"Presentations",
+			"AfterEffects",
+			"Photoshop",
+			"Illustrator",
+			"PDFReader",
+			"Terminal",
+			"TextEditor"
+		],
+		
+		"Files": [
+			"Home",
+			"Documents",
+			"Downloads",
+			"Aplications",
+			"Desktop",
+			"Recents",
+			"PHFolder",
+			"FolderBlank",
+			"FolderPink",
+			"FolderFuchsia",
+			"FolderViolet",
+			"FolderCyan",
+			"FolderTurquoise",
+			"FolderYellow",
+			"ShowGrid",
+			"ShowColumn",
+			"ShowList",
+			"Tag",
+			"Tags",
+			"Expand",
+			"Shrink",
+			"TxtFile"
+		],
+		"Notes": [
+			"NewNote",
+			"Bold",
+			"Italic",
+			"Underlined",
+			"Checklist",
+			"Table",
+			"Image",
+			"AddProfile"
+		],
+		"Messages": [
+			"Info",
+			"Emoji"
+		],
+		"Settings": [
+			"General",
+			"Personalization",
+			"Network",
+			"Language",
+			"Time",
+			"Search",
+			"Displays",
+			"Apps",
+			"Accessibility",
+			"Sound",
+			"Privacy",
+			"Security",
+			"Users",
+			"Devices",
+			"Extensions",
+			"Wallpaper",
+			"Notifications",
+			"NetAccounts",
+			"Bluetooth",
+			"Update",
+			"UpToDate",
+			"Battery",
+			"Dock",
+			"Earbuds",
+			"Headphones",
+			"WirelessMouse",
+			"WiFiLevel4",
+			"WiFiLevel3",
+			"WiFiLevel2",
+			"WiFiLevel1",
+			"WiFiLevel0",
+			"AccentColorAny"
+		],
+		"Lale": [
+			"Sidebar",
+			"Refresh",
+			"Twitter",
+			"YouTube",
+			"Netflix",
+			"Avdan",
+			"Google",
+			"Getir",
+			"Hepsiburada"
+		],
+		"Photos": [
+			"More",
+			"Less",
+			"Rotate"
+		]
+	},
+	"images": {
+		"backgrounds": [
+			"AvdanOS.jpg",
+			"AvdanOSWallpaper.jpg"
+		],
+		"Settings": [
+			"AppearanceStyleRoundedBG.png",
+			"AppearanceStyleRoundedNoBG.png",
+			"AppearanceStyleStraightBG.png",
+			"AppearanceStyleStraightNoBG.png"
+		]
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Classic",
+	"author": "FacuA0 (concept by Avdan)",
+	"description": "Classic theme.",
+	"created": "2022-05-22",
+	"updated": "",
+	"version": "1.0",
+	"versionCode": 1,
+	
+	"appearances": [
+		{
+			"name": "Light",
+			"backgroundURL": "Icy.jpg",
+			"style": {
+				"windowColor": "#FFF",
+				"windowTransparency": 0.8,
+				"windowBlurAmount": 8,
+				"windowCoverColor": "#0000FF1A",
+				"textColor": "#1A1D3A",
+				"softTextColor": "#333",
+				"accentColor": "#7D82FF",
+				"secondaryColor": "#747AFF",
+				"secondaryFaintColor": "#747AFF6F",
+				"iconColor": "#000",
+				"buttonColor": "#00F1",
+				"buttonFaintColor": "#0000FF08",
+				"buttonHoverColor": "#00F2"
+			}
+		}
+	]
+}
